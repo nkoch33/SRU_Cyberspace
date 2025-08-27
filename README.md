@@ -171,6 +171,7 @@ This project is open source and available under the [MIT License](LICENSE).
 - Designed specifically for cybersecurity student organizations
 - Tailored for Slippery Rock University's Cyberspace Club
 - Heavily inspired by the University of Pittsburgh Computer Science Club
+- Usage of generative AI to produce the README files
 
 ## Support
 
