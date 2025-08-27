@@ -170,6 +170,7 @@ This project is open source and available under the [MIT License](LICENSE).
 - Built with modern web technologies
 - Designed specifically for cybersecurity student organizations
 - Tailored for Slippery Rock University's Cyberspace Club
+- Heavily inspired by the University of Pittsburgh Computer Science Club
 
 ## Support
 
